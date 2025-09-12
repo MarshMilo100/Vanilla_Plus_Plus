@@ -1,0 +1,11 @@
+{
+  "allowMovement": {
+    "fuzs.mindfuldarkness.client.gui.screens.PixelConfigScreen": true,
+    "dev.emi.emi.screen.RecipeScreen": true
+  },
+  "hideBackground": {
+    "fuzs.mindfuldarkness.client.gui.screens.PixelConfigScreen": true,
+    "hantonik.fbp.screen.FBPFastBlacklistScreen": true,
+    "dev.emi.emi.screen.RecipeScreen": true
+  }
+}

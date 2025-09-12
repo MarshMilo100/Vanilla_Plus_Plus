@@ -21,6 +21,7 @@ minecraft/Distant_Horizons_server_data/
 minecraft/ESM/
 minecraft/journeymap/
 minecraft/.replay_cache/
+minecraft/defaultconfigs/ftbessentials-server.snbt
 
 # World Saves and Screenshots
 minecraft/saves/
@@ -32,3 +33,12 @@ minecraft/downloads/
 
 # Resource Packs
 minecraft/resourcepacks/§5§lModded §f§lContainers §8§lDark§8/
+
+# Mods
+minecraft/mods/*.disabled
+minecraft/mods/*.duplicate
+
+# Prism Launcher Files
+minecraft/mods/.index/
+minecraft/shaderpacks/ComplementaryUnbound_r5.5.1 + EuphoriaPatches_1.6.5/
+minecraft/observable_announce

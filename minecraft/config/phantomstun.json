@@ -1,0 +1,7 @@
+{
+  "phantomStun": true,
+  "phantomSizeTweak": true,
+  "phantomSpawnHealthTweak": true,
+  "phantomSpawnTimingTweak": true,
+  "phantomSpawnCountTweak": true
+}

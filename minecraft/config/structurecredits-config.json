@@ -1,0 +1,29 @@
+{
+  "active": true,
+  "showOnlyOneTime": true,
+  "chatMessage": false,
+  "showCreator": true,
+  "customStructureName": {
+    "minecraft:swamp_hut": "a_cat:cat_hut"
+  },
+  "dontShowAll": [
+    "minecraft:",
+    "dimdungeons:"
+  ],
+  "dontShow": [
+    "minecraft:plains_village",
+    "minecraft:desert_village",
+    "bettermineshafts:mineshaft_lush",
+    "formationsoverworld:witch_tower",
+    "formationsoverworld:stone_tower",
+    "nova_structures:ruin_town",
+    "supplementaries:way_sign",
+    "explorations:underground_temple",
+    "explorations:forgotten_well",
+    "explorations:floating_island",
+    "betterjungletemples:jungle_temple",
+    "structory_towers:quarter_outpost",
+    "nova_structures:wild_ruin",
+    "nova_structures:shrine_combat_tier_4"
+  ]
+}

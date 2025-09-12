@@ -1,0 +1,5 @@
+[client]
+flipChance = 0.35
+minimumFallDistance = 3
+invertMobs = true
+flippingMobs = ["minecraft:bat", "minecraft:armor_stand", "minecraft:ender_dragon", "minecraft:wither"]
