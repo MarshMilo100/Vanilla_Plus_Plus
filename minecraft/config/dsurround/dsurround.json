@@ -22,8 +22,8 @@
   },
   "soundOptions": {
     "ambientVolumeScaling": 100,
-    "replaceThunderSounds": false,
-    "allowScarySounds": false,
+    "replaceThunderSounds": true,
+    "allowScarySounds": true,
     "playBiomeMusicWhileCreative": false,
     "displayToastMessagesForMusic": true,
     "remapSounds": true

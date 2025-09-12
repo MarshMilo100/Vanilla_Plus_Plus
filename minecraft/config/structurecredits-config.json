@@ -24,6 +24,13 @@
     "betterjungletemples:jungle_temple",
     "structory_towers:quarter_outpost",
     "nova_structures:wild_ruin",
-    "nova_structures:shrine_combat_tier_4"
+    "nova_structures:shrine_combat_tier_4",
+    "natures_spirit:village_cypress",
+    "nova_structures:illager_camp",
+    "formationsoverworld:fountain",
+    "structory:northern_ruin",
+    "nova_structures:bunker",
+    "structory_towers:nomad_outpost",
+    "nova_structures:remnant_miner_hut"
   ]
 }

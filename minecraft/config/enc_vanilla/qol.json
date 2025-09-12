@@ -81,7 +81,7 @@
 	"enableCeilingTorch": true,
 	"enableSafeLavaBucket": false,
 	"enablePlaceChestOnBoat": true,
-	"enableNameTagDespawn": true,
+	"enableNameTagDespawn": false,
 	"enableSafeHarvest": true,
 	"enableDoubleDoor": true,
 	"enableBrokenLead": true,

@@ -4,18 +4,18 @@
 fireworkItems = [ "minecraft:firework_rocket" ]
 
 # Blocks that should be protected in the prevent accidental mining tweak.
-fragileBlocks = [ 
-    "minecraft:small_amethyst_bud", 
-    "minecraft:medium_amethyst_bud", 
-    "minecraft:budding_amethyst", 
+fragileBlocks = [
+    "minecraft:small_amethyst_bud",
+    "minecraft:medium_amethyst_bud",
+    "minecraft:budding_amethyst",
     "minecraft:large_amethyst_bud"
 ]
 
 # Items that count as shields for the offhand-shield hiding tweak options.
-shieldItems = [ 
-    "basicshields:wooden_shield", 
-    "basicshields:golden_shield", 
-    "basicshields:diamond_shield", 
+shieldItems = [
+    "basicshields:wooden_shield",
+    "basicshields:golden_shield",
+    "basicshields:diamond_shield",
     "basicshields:netherite_shield"
 ]
 
@@ -26,14 +26,14 @@ shieldWeapons = [ "tetra:modular_sword" ]
 torchItems = [ "minecraft:torch", "minecraft:soul_torch", "tconstruct:stone_torch" ]
 
 # Items that are allowed to place torches from the offhand if offhandTorchWithToolOnly is enabled.
-torchTools = [ 
-    "minecraft:wooden_pickaxe", 
-    "minecraft:stone_pickaxe", 
-    "minecraft:iron_pickaxe", 
-    "minecraft:golden_pickaxe", 
-    "minecraft:diamond_pickaxe", 
-    "minecraft:netherite_pickaxe", 
-    "tconstruct:pickaxe", 
+torchTools = [
+    "minecraft:wooden_pickaxe",
+    "minecraft:stone_pickaxe",
+    "minecraft:iron_pickaxe",
+    "minecraft:golden_pickaxe",
+    "minecraft:diamond_pickaxe",
+    "minecraft:netherite_pickaxe",
+    "tconstruct:pickaxe",
     "tconstruct:hammer"
 ]
 
@@ -52,7 +52,7 @@ creativeBreakingSupport = true
 disableLogStripping = false
 
 # This option will disable paving when holding a block in your offhand.
-disablePavingWithBlockInOffhand = true
+disablePavingWithBlockInOffhand = false
 
 # This option will disable step assist added by other mods.
 disableStepAssist = false
@@ -88,7 +88,7 @@ noOffhandTorchAtAll = false
 noOffhandTorchWithBlock = true
 
 # This prevents torches from being placed from your offhand if you have an empty main hand.
-noOffhandTorchWithEmptyHand = true
+noOffhandTorchWithEmptyHand = false
 
 # This prevents torches from being placed from your offhand if you have food in your main hand.
 noOffhandTorchWithFood = true
@@ -100,7 +100,7 @@ noOffhandUseWithFood = true
 noRecipeBookShifting = false
 
 # This restricts torches to be placed from the offhand only when you're holding a tool in your main hand.
-offhandTorchWithToolOnly = true
+offhandTorchWithToolOnly = false
 
 # This option will make iron fences and glass panes have a bigger hitbox while placing them, making it easier to aim.
 paneBuildingSupport = true

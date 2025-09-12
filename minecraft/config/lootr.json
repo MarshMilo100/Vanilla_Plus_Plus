@@ -15,8 +15,8 @@
   },
   "breaking": {
     "disable_break": false,
-    "enable_break": false,
-    "enable_fake_player_break": false,
+    "enable_break": true,
+    "enable_fake_player_break": true,
     "power_comparators": true,
     "blast_resistant": false,
     "blast_immune": false,
@@ -55,7 +55,7 @@
     "disable_message_styles": false
   },
   "client": {
-    "vanilla_textures": true,
+    "vanilla_textures": false,
     "new_textures": true
   }
 }

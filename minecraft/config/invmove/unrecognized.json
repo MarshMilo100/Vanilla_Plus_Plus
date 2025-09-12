@@ -1,11 +1,35 @@
 {
   "allowMovement": {
     "fuzs.mindfuldarkness.client.gui.screens.PixelConfigScreen": true,
-    "dev.emi.emi.screen.RecipeScreen": true
+    "dev.emi.emi.screen.RecipeScreen": true,
+    "net.minecraft.class_433": true,
+    "com.terraformersmc.modmenu.gui.ModsScreen": true,
+    "dev.tr7zw.trender.gui.client.AbstractConfigScreen$1": true,
+    "net.minecraft.class_429": true,
+    "net.minecraft.class_458": true,
+    "net.minecraft.class_443": true,
+    "com.blamejared.controlling.client.NewKeyBindsScreen": true,
+    "dev.ftb.mods.ftblibrary.ui.ScreenWrapper": true,
+    "me.flashyreese.mods.reeses_sodium_options.client.gui.SodiumVideoOptionsScreen": true,
+    "net.irisshaders.iris.gui.screen.ShaderPackScreen": true,
+    "journeymap.client.ui.dialog.about.AboutScreen": true,
+    "journeymap.client.ui.fullscreen.Fullscreen": true,
+    "journeymap.client.ui.option.ClientOptionsManager": true,
+    "journeymap.client.ui.component.screens.ScrollPaneScreen": true,
+    "net.minecraft.class_5375": true,
+    "me.ichun.mods.ichunutil.client.gui.config.WorkspaceConfigs": true,
+    "journeymap.client.ui.waypointmanager.WaypointManager": true,
+    "journeymap.client.ui.waypointmanager.group.DeleteConfirmGroupPopup": true,
+    "journeymap.client.ui.waypointmanager.group.GroupSettingsPopup": true,
+    "com.leobeliik.extremesoundmuffler.gui.MufflerScreen": true,
+    "com.chaosthedude.notes.gui.SelectNoteScreen": true,
+    "com.chaosthedude.notes.gui.EditNoteScreen": true,
+    "me.shedaniel.clothconfig2.gui.ClothConfigScreen": true
   },
   "hideBackground": {
     "fuzs.mindfuldarkness.client.gui.screens.PixelConfigScreen": true,
     "hantonik.fbp.screen.FBPFastBlacklistScreen": true,
-    "dev.emi.emi.screen.RecipeScreen": true
+    "dev.emi.emi.screen.RecipeScreen": true,
+    "dev.ftb.mods.ftblibrary.ui.ScreenWrapper": true
   }
 }

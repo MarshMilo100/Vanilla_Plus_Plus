@@ -5,7 +5,7 @@
   "sneakXOffset": 40,
   "sitXOffset": 40,
   "renderStuckFeatures": true,
-  "vanillaHandsMode": "ITEMS",
+  "vanillaHandsMode": "ALL",
   "dynamicMode": true,
   "vanillaHandsSkipSwimming": true,
   "autoVanillaHands": [

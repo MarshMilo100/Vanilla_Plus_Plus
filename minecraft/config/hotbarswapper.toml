@@ -2,10 +2,10 @@
 [general]
 
 	# Listens to specific key for when it is held. Defaults to sprint if we can't find your specified key.
-	swapKeyListen = "key.sprint"
+	swapKeyListen = ""
 
 	# Listens to specific key for when it is held. Defaults to sneak if we can't find your specified key.
-	swapSlotListen = "key.sneak"
+	swapSlotListen = ""
 
 	# Do you need to hold the hotbar swap key to be able to swap a slot?
 	requireSwapKeyForSlot = true
@@ -19,7 +19,7 @@
 	# These slots are ignored when changing rows/slots (slots are counted 0, 1, 2...8)
 	# 
 	# Add/remove a slot by holding the swap slot key then hitting the swap row key
-	ignoredSlots = []
+	ignoredSlots = [1,0,2]
 
 	# The scale for the item when rendering a possible swap
 	# Range: 0.0 ~ 2.0
