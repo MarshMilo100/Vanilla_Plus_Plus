@@ -31,14 +31,18 @@ minecraft/world/
 minecraft/automodpack/
 minecraft/downloads/
 
-# Resource Packs
+# Resource Packs and Shader Packs
 minecraft/resourcepacks/§5§lModded §f§lContainers §8§lDark§8/
+minecraft/shaderpacks/ComplementaryUnbound_r5.5.1 + EuphoriaPatches_1.6.5/
 
 # Mods
 minecraft/mods/*.disabled
 minecraft/mods/*.duplicate
-
-# Prism Launcher Files
 minecraft/mods/.index/
-minecraft/shaderpacks/ComplementaryUnbound_r5.5.1 + EuphoriaPatches_1.6.5/
+
+# Misc Files
 minecraft/observable_announce
+minecraft/config/chunky/tasks/minecraft/overworld.properties
+minecraft/servers.dat
+minecraft/servers.dat_old
+minecraft/cherishedworlds-favorites.dat
