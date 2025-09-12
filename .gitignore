@@ -1,0 +1,34 @@
+# VS Code
+*.code-workspace
+
+# Fabric Generated Files
+minecraft/.fabric/
+minecraft/.mixin.out/
+minecraft/data/fabricDefaultResourcePacks.dat
+minecraft/dynamic-resource-pack-cache/hash.txt
+
+# Minecraft Logs and Temporary Files
+minecraft/crash-reports/
+minecraft/logs/
+minecraft/debug/
+minecraft/*.log
+minecraft/screenshots/
+minecraft/usercache.json
+minecraft/command_history.txt
+
+# Mod Data
+minecraft/Distant_Horizons_server_data/
+minecraft/ESM/
+minecraft/journeymap/
+minecraft/.replay_cache/
+
+# World Saves and Screenshots
+minecraft/saves/
+minecraft/world/
+
+# AutoModPack
+minecraft/automodpack/
+minecraft/downloads/
+
+# Resource Packs
+minecraft/resourcepacks/§5§lModded §f§lContainers §8§lDark§8/
