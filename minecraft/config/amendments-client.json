@@ -68,8 +68,8 @@
     "potion_texture": true
   },
   "jukebox": {
-    "new_model": false,
-    "disc_spin": false
+    "new_model": true,
+    "disc_spin": true
   },
   "misc": {
     "torch_item_holding": true,

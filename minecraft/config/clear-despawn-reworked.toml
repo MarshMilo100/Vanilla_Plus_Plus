@@ -1,5 +1,5 @@
 modEnabled = true
-flashingEnabled = false
+flashingEnabled = true
 despawnAge = 6000
 urgentFlashing = true
 flashStartTime = 15
