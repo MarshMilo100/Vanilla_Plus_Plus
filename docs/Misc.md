@@ -1,0 +1,24 @@
+# Misc
+
+- Amendments
+- Backpacked
+- Backpacked: World Of Color
+- Better Advancements
+- Bedrockoid
+- Brick Furnace
+- Charm
+- Chimes
+- Clutter
+- Comforts
+- Enchanting Vanilla
+- Fabrication
+- Glassential\-renewed
+- Iron Chests
+- Items Displayed
+- Just Hammers
+- Measurements
+- More Useful Copper
+- Supplementaries
+- UsefulSlime
+- Regenerative Sleep
+- Completionist's Index

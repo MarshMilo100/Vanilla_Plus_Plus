@@ -1,0 +1,67 @@
+# Libraries / Other
+
+- Accessories
+- Accessories Trinkets Compat Layer
+- Accessorify
+- Almanac
+- AttributeFix
+- Architectury
+- Balm
+- Audaki Cart Engine
+- Bookshelf
+- CICADA
+- CIT Resewn
+- Camera Utils
+- CameraOverhaul
+- Carrascon Lib
+- Cloth Config v15
+- Collective
+- CoroUtil
+- CreativeCore
+- Entity Model Features
+- Entity Texture Features
+- FTB Essentials
+- FTB Library
+- Fabric API
+- Fabric Language Kotlin
+- Framework
+- Fusion
+- Entity Model Features
+- Entity Texture Features
+- Forge Config API Port
+- Fzzy Config
+- GeckoLib 4
+- Global Packs
+- Iceberg
+- Kiwi Library
+- Lithostitched
+- M\.R\.U
+- MaLiLib
+- MidnightLib
+- Mod Menu
+- MonoLib
+- Moonlight Lib
+- MoreMcmeta
+- MoreMcmeta Emissive Textures Plugin
+- Necronomicon
+- No Chat Reports
+- OctoLib
+- OptiGUI
+- Placeholder API
+- PrickleMC
+- Puzzles Lib
+- Quad
+- Reese's Sodium Options
+- Resourceful Lib
+- Resourcefulconfig
+- Searchables
+- Silk \(All modules\)
+- SuperMartijn642's Config Library
+- TerraBlender
+- TCD Commons API
+- TxniLib
+- YUNG's API
+- YetAnotherConfigLib
+- iChunUtil
+- Cupboard
+- oωo (Custom GUIs)
