@@ -6,7 +6,7 @@ _version = 3
 	generationBoundsZ = 0
 	#
 	# Defines the distance the player will receive updates around.
-	realTimeUpdateDistanceRadiusInChunks = 128
+	realTimeUpdateDistanceRadiusInChunks = 256
 	#
 	# Prefix of the level keys sent to the clients.
 	# If the mod is running behind a proxy, each backend should use a unique value.
@@ -270,7 +270,7 @@ _version = 3
 		#  outside the vanilla render distance? 
 		# Depending on the generator mode, this will import existing chunks 
 		# and/or generating missing chunks.
-		enableDistantGeneration = true
+		enableDistantGeneration = false
 
 [client]
 	#
@@ -311,7 +311,7 @@ _version = 3
 			# DEFAULT: Default lod renderer 
 			# DEBUG: Debug testing renderer 
 			# DISABLED: Disable rendering
-			rendererMode = "DEFAULT"
+			rendererMode = "DISABLED"
 			#
 			# If enabled the LODs will render as wireframe.
 			renderWireframe = false

@@ -35,6 +35,9 @@
     "formationsnether:ore_shard",
     "formationsnether:sphere_cage",
     "betterfortresses:fortress",
-    "formationsnether:checkerboard_temple"
+    "formationsnether:checkerboard_temple",
+    "repurposed_structures:village_cherry",
+    "formationsnether:small_lava_arena",
+    "betternether:nether_city"
   ]
 }
