@@ -9,12 +9,12 @@
   "soundSystem": {
     "streamingChannels": 12,
     "cullInterval": 20,
-    "enableSoundPruning": true
+    "enableSoundPruning": false
   },
   "enhancedSounds": {
     "enableEnhancedSounds": true,
     "backgroundThreadWorkers": 0,
-    "enableMonoConversion": true,
+    "enableMonoConversion": false,
     "enableOcclusionProcessing": false,
     "reverbRays": 32,
     "reverbBounces": 4,
@@ -64,12 +64,12 @@
     "scale": 1.0
   },
   "fogOptions": {
-    "enableFogEffects": true,
+    "enableFogEffects": false,
     "enableMorningFog": true,
     "enableBiomeFog": true,
     "enableWeatherFog": true
   },
   "otherOptions": {
-    "playRandomSoundOnStartup": true
+    "playRandomSoundOnStartup": false
   }
 }

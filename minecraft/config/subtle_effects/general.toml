@@ -1,7 +1,7 @@
 # Don't change this! Version used to track needed updates.
 version = 0
 enableParticleCulling = true
-particleRenderDistance = 5
+particleRenderDistance = 2
 cullParticlesInUnloadedChunks = true
 allowUsingBlendedRenderType = true
 spellParticlesUseBlendedRenderType = true

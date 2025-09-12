@@ -10,32 +10,32 @@
 		buttons: {
 			"ftblibrary:toggle/night": {
 				enabled: true
-				x: 2
+				x: 3
 				y: 0
 			}
 			"ftbessentials:trash_can": {
 				enabled: true
-				x: 5
+				x: 0
 				y: 0
 			}
 			"ftblibrary:toggle/gamemode": {
 				enabled: true
-				x: 0
+				x: 1
 				y: 0
 			}
 			"ftblibrary:config": {
 				enabled: true
-				x: 4
+				x: 5
 				y: 0
 			}
 			"ftblibrary:toggle/day": {
 				enabled: true
-				x: 1
+				x: 2
 				y: 0
 			}
 			"ftblibrary:toggle/rain": {
 				enabled: true
-				x: 3
+				x: 4
 				y: 0
 			}
 		}

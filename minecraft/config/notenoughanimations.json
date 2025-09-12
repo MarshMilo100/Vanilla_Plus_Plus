@@ -59,7 +59,7 @@
     "minecraft:netherite_sword"
   ],
   "enableCrawlingAnimation": true,
-  "holdUpItemsMode": "CONFIG",
+  "holdUpItemsMode": "NONE",
   "holdUpTarget": "CAMERA",
   "holdUpCameraOffset": 0.1,
   "holdUpOnlySelf": false,

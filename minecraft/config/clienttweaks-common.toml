@@ -4,18 +4,18 @@
 fireworkItems = [ "minecraft:firework_rocket" ]
 
 # Blocks that should be protected in the prevent accidental mining tweak.
-fragileBlocks = [
-    "minecraft:small_amethyst_bud",
-    "minecraft:medium_amethyst_bud",
-    "minecraft:budding_amethyst",
+fragileBlocks = [ 
+    "minecraft:small_amethyst_bud", 
+    "minecraft:medium_amethyst_bud", 
+    "minecraft:budding_amethyst", 
     "minecraft:large_amethyst_bud"
 ]
 
 # Items that count as shields for the offhand-shield hiding tweak options.
-shieldItems = [
-    "basicshields:wooden_shield",
-    "basicshields:golden_shield",
-    "basicshields:diamond_shield",
+shieldItems = [ 
+    "basicshields:wooden_shield", 
+    "basicshields:golden_shield", 
+    "basicshields:diamond_shield", 
     "basicshields:netherite_shield"
 ]
 
@@ -26,14 +26,14 @@ shieldWeapons = [ "tetra:modular_sword" ]
 torchItems = [ "minecraft:torch", "minecraft:soul_torch", "tconstruct:stone_torch" ]
 
 # Items that are allowed to place torches from the offhand if offhandTorchWithToolOnly is enabled.
-torchTools = [
-    "minecraft:wooden_pickaxe",
-    "minecraft:stone_pickaxe",
-    "minecraft:iron_pickaxe",
-    "minecraft:golden_pickaxe",
-    "minecraft:diamond_pickaxe",
-    "minecraft:netherite_pickaxe",
-    "tconstruct:pickaxe",
+torchTools = [ 
+    "minecraft:wooden_pickaxe", 
+    "minecraft:stone_pickaxe", 
+    "minecraft:iron_pickaxe", 
+    "minecraft:golden_pickaxe", 
+    "minecraft:diamond_pickaxe", 
+    "minecraft:netherite_pickaxe", 
+    "tconstruct:pickaxe", 
     "tconstruct:hammer"
 ]
 
@@ -61,7 +61,7 @@ disableStepAssist = false
 doNotUseLastMending = true
 
 # This prevents the last torch in the offhand from being placed.
-doNotUseLastTorch = true
+doNotUseLastTorch = false
 
 # This option will hide your offhand item. It can be toggled via an optional key binding.
 hideOffhandItem = false

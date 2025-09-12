@@ -3,7 +3,7 @@
   "jukebox": true,
   "jukebox_fake_block": true,
   "jukebox_clientside": true,
-  "furnace": true,
+  "furnace": false,
   "smoker_particles": true,
   "blast_furnace_particles": true,
   "coloredItems": true,

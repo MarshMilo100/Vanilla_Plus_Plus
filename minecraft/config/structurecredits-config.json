@@ -31,6 +31,10 @@
     "structory:northern_ruin",
     "nova_structures:bunker",
     "structory_towers:nomad_outpost",
-    "nova_structures:remnant_miner_hut"
+    "nova_structures:remnant_miner_hut",
+    "formationsnether:ore_shard",
+    "formationsnether:sphere_cage",
+    "betterfortresses:fortress",
+    "formationsnether:checkerboard_temple"
   ]
 }

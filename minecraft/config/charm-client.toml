@@ -52,8 +52,8 @@
 
 [TooltipImprovements]
 	#Adds hover tooltips for some items that have content.
-	Enabled = true
+	Enabled = false
 	#If true, a map will show its content when hovering over the item.
-	Maps = true
+	Maps = false
 	#If true, the contents of a shulker box will be shown when hovering over the item.
 	"Shulker boxes" = false
