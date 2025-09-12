@@ -2,7 +2,7 @@ version:3955
 betterBiomeBlendRadius:14
 ao:true
 biomeBlendRadius:7
-enableVsync:false
+enableVsync:true
 entityDistanceScaling:1.0
 entityShadows:true
 forceUnicodeFont:false
@@ -23,8 +23,8 @@ narrator:0
 particles:0
 reducedDebugInfo:false
 renderClouds:"true"
-renderDistance:16
-simulationDistance:12
+renderDistance:20
+simulationDistance:8
 screenEffectScale:1.0
 soundDevice:""
 autoJump:false
@@ -49,8 +49,8 @@ mouseSensitivity:0.5
 damageTiltStrength:1.0
 highContrast:false
 narratorHotkey:true
-resourcePacks:["vanilla","fabric","visualoverhaul:coloredwaterbucket","visualoverhaul:nobrewingbottles","visualoverhaul:rounddiscs","minecraft:supporteatinganimation","Fabrication grayscale","Fabrication","copperrails:copperrails3d","betterbeds:fancyconnectedbeds","continuity:default","crittersandcompanions:friendlyart","continuity:glass_pane_culling_fix","moonlight:merged_pack","file/LowOnFire v1.21.8§8.zip","file/Fusion Stacking Items v1.0.0 for Minecraft 1.20-1.21.8.zip","file/§5§lModded §f§lContainers §8§lDark§8.zip"]
-incompatibleResourcePacks:["ambientenvironment","appleskin","authme","backpacked","badoptimizations","balm","bcc","betteradvancements","betterbiomeblend","betterclouds","bookshelf","brickfurnace","cardiac","carryon","charm","cherishedworlds","chimes","chunksending","clearwater","clienttweaks","comforts","connectivity","controlling","craftingtweaks","dailyquests","deeperdarker","do_a_barrel_roll","doaflip","enc_vanilla","enchdesc","entity_model_features","entity_texture_features","extremesoundmuffler","framework","ftbessentials","glassential","globalpacks","immersivearmorhud","immersiveui","inventoryessentials","jade","kiwi","modernfix","more_useful_copper","mr_dungeons_andtaverns","particlerain","polymorph","searchables","smoothchunk","sodiumdynamiclights","sodiumleafculling","sodiumoptionsapi","spark","spectrelib","subtle_effects","tectonic","terrablender","tipsmod","txnilib","usefulslime","yet_another_config_lib_v3","Fabrication","file/LowOnFire v1.21.8§8.zip","file/§5§lModded §f§lContainers §8§lDark§8.zip"]
+resourcePacks:["vanilla","fabric","visualoverhaul:coloredwaterbucket","visualoverhaul:nobrewingbottles","visualoverhaul:rounddiscs","minecraft:supporteatinganimation","Fabrication grayscale","Fabrication","copperrails:copperrails3d","betterbeds:fancyconnectedbeds","continuity:default","continuity:glass_pane_culling_fix","moonlight:merged_pack","file/§5§lModded §f§lContainers §8§lDark§8"]
+incompatibleResourcePacks:["ambientenvironment","appleskin","authme","backpacked","badoptimizations","balm","betteradvancements","betterbiomeblend","betterclouds","bookshelf","brickfurnace","cardiac","carryon","charm","cherishedworlds","chimes","chunksending","clearwater","clienttweaks","comforts","connectivity","controlling","craftingtweaks","dailyquests","do_a_barrel_roll","doaflip","enc_vanilla","enchdesc","entity_model_features","entity_texture_features","extremesoundmuffler","framework","ftbessentials","glassential","globalpacks","immersivearmorhud","immersiveui","inventoryessentials","jade","kiwi","modernfix","mr_dungeons_andtaverns","particlerain","polymorph","searchables","smoothchunk","sodiumdynamiclights","sodiumleafculling","sodiumoptionsapi","spark","spectrelib","subtle_effects","tectonic","terrablender","tipsmod","txnilib","usefulslime","yet_another_config_lib_v3","Fabrication","file/§5§lModded §f§lContainers §8§lDark§8"]
 lastServer:
 lang:en_us
 chatVisibility:0
@@ -59,7 +59,7 @@ chatLineSpacing:0.0
 textBackgroundOpacity:0.5
 backgroundForChatOnly:true
 hideServerAddress:false
-advancedItemTooltips:true
+advancedItemTooltips:false
 pauseOnLostFocus:false
 overrideWidth:0
 overrideHeight:0
@@ -169,8 +169,6 @@ key_key.craftingtweaks.decompress_all:key.keyboard.unknown
 key_key.craftingtweaks.refill_last_stack:key.keyboard.tab
 key_key.craftingtweaks.transfer_stack:key.keyboard.unknown
 key_dailyquests.key.togglequestlistcollapse:key.keyboard.period
-key_key.deeperdarker.boost:key.keyboard.b
-key_key.deeperdarker.transmit:key.keyboard.v
 key_key.do_a_barrel_roll.toggle_enabled:key.keyboard.i
 key_key.do_a_barrel_roll.toggle_thrust:key.keyboard.unknown
 key_key.do_a_barrel_roll.open_config:key.keyboard.unknown
@@ -192,11 +190,11 @@ key_key.open_muffler_gui:key.keyboard.unknown
 key_key.fbp.toggle_mod:key.keyboard.unknown
 key_key.fbp.toggle_animations:key.keyboard.unknown
 key_key.fbp.open_settings:key.keyboard.i
-key_key.fbp.freeze_particles:key.keyboard.r
+key_key.fbp.freeze_particles:key.keyboard.unknown
 key_key.fbp.kill_particles:key.keyboard.unknown
 key_key.fbp.add_to_blacklist:key.keyboard.x
 key_key.fbp.reload_config:key.keyboard.unknown
-key_key.freecam.toggle:key.keyboard.f4
+key_key.freecam.toggle:key.mouse.4
 key_key.freecam.playerControl:key.keyboard.unknown
 key_key.freecam.tripodReset:key.keyboard.unknown
 key_key.freecam.configGui:key.keyboard.unknown
