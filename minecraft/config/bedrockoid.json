@@ -19,6 +19,6 @@
   "composterCollisionFix": true,
   "snowSpawnsUnderTrees": true,
   "disableSnowUnderTreesIn": [],
-  "snowCoversLeaves": true,
-  "snowCoversVines": true
+  "snowCoversLeaves": false,
+  "snowCoversVines": false
 }

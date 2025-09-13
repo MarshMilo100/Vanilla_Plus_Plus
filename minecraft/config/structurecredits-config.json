@@ -47,6 +47,10 @@
     "repurposed_structures:village_mushroom",
     "repurposed_structures:village_jungle",
     "repurposed_structures:pyramid_jungle",
-    "explorations:jungle_temple"
+    "explorations:jungle_temple",
+    "explorify:badlands_pyramid",
+    "formationsoverworld:meteor",
+    "nova_structures:firewatch_tower_savanna",
+    "terralith:desert_outpost"
   ]
 }
