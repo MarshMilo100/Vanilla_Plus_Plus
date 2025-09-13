@@ -102,9 +102,9 @@
       "populate_creative_tab": true
     },
     "urn": {
-      "enabled": true,
+      "enabled": false,
       "critter_spawn_chance": 0.01,
-      "cave_urns": true
+      "cave_urns": false
     },
     "soap": {
       "enabled": true,
