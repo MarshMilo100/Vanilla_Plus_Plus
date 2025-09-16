@@ -16,7 +16,32 @@ log_pack_ids = true
 	required = ["global_packs/required_resources/"]
 	# Check game log if log_pack_ids is set to true, you need to add the full IDs listed in there.
 	# Search for "# Listing Resource Packs #" inside the log
-	enable_builtin = []
+	enable_builtin = [
+		"copperrails:copperrails3d",
+		"betterbeds:fancyconnectedbeds",
+		"continuity:glass_pane_culling_fix",
+		"continuity:default",
+		"subtle_effects:biome_color_water_particles",
+		"crittersandcompanions:friendlyart",
+		"visualoverhaul:coloredwaterbucket",
+		"file/3D Ladders v1.1.zip",
+		"file/3D Variated Bookshelves.zip",
+		"file/Authentic Shadows_1.21+.zip",
+		"file/Better Lanterns v1.2 - 1.21.7.zip",
+		"file/Bibliophilia 1.15 (1.21.1).zip",
+		"file/cubic-sun-moon-vb1-7-4a.zip",
+		"file/Dramatic Skys Demo 1.5.3.35.zip",
+		"file/enchant icons 1.21 v1.3.zip",
+		"file/Fancy Crops v1.0 f5-34.zip",
+		"file/Fusion Stacking Items v1.0.0 for Minecraft 1.20-1.21.8.zip",
+		"file/LowOnFire v1.21.8§8.zip",
+		"file/Os' Colorful Grasses (Mix).zip",
+		"file/Remodeled-Doors1.3.zip",
+		"file/Simple Grass Flowers v1.9.5.zip",
+		"file/VanillaTweaks_r463103_MC1.21.x.zip",
+		"file/§5§lModded §f§lContainers §8§lDark§8.zip",
+		"file/§8§lDarkmode §f§lColourful Containers§8.zip",
+	]
 
 [datapacks]
 	required = ["datapacks/", "resourcepacks/", "global_packs/required_data/"]

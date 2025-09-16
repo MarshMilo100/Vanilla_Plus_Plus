@@ -8,7 +8,7 @@
 	// min: 0.0, max: 1.0
 	"burnHostilesRadiusModifier": 0.5,
 	// When enabled, the mob spawners spawns are also disabled when a campfire is within the radius.
-	"preventMobSpawnerSpawns": true,
+	"preventMobSpawnerSpawns": false,
 	// When enabled, the campfire only has an effect when the block is lit up.
 	"campfireMustBeLit": true,
 	// When enabled, the campfire only has an effect when the block is signalling.

@@ -1,0 +1,36 @@
+TODO:
+- make boats faster
+- enchant letters on tools
+- remove enchantment letter icon
+
+Done:
+- too many particles from items on the ground
+- right click to harvest crops is broken
+- reduce twerk sensitivity
+- chainable minecarts
+- new rails?
+- free floating ladders
+- boats should go through lily pads
+- bundles in backpacks
+- enable bundles
+- chests crash the game
+- Lootr chests sometimes do not generate properly, and spawn as a vanilla chest
+- freestanding ladders
+- Revert texture for lootr chests to default.
+- Remove invmove mod.
+- Reduce size of 'new biome' text.
+- Notes autosave?
+- villagers names are lame, and they drop their nametags.
+- Fix torch placing rules weirdness.
+- boat mod
+- look around boat mod
+- bed accelerated night mod
+- Fix hotbar swapper
+- click through signs and item frames
+- remove nifty carts
+- items on ground flash all the time
+- Change experience color back to lime green.
+- remove map id icon
+- jukebox doesnt play sound
+- nether portals dont let you back into the Overworld
+- reduce nether portal radius

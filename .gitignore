@@ -51,3 +51,6 @@ minecraft/waypoints/
 
 # Server Files
 old/
+minecraft/sdlinkstorage/hiddenplayers.json
+minecraft/sdlinkstorage/sdlink.enc
+minecraft/sdlinkstorage/verifiedaccounts.json

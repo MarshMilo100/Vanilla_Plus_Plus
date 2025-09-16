@@ -198,13 +198,13 @@
 	#Potion maximum stack size.
 	Potion = 16
 	#Splash potion maximum stack size.
-	"Splash potion" = 1
+	"Splash potion" = 16
 	#Lingering potion maximum stack size.
-	"Lingering potion" = 1
+	"Lingering potion" = 16
 	#Stew (and beetroot soup) maximum stack size.
 	Stew = 16
 	#Suspicious stew maximum stack size.
-	"Suspicious stew" = 1
+	"Suspicious stew" = 16
 
 [ItemTidying]
 	#Button to automatically tidy items in inventories.
@@ -420,10 +420,10 @@
 [SpawnersDropItems]
 	#Monster spawners drop mob-related items when broken. This allows items such as gunpowder, string
 	#and rotten flesh to be gathered in larger quantities when the game difficulty is set to peaceful.
-	Enabled = true
+	Enabled = false
 	#If true, monster spawners only drop items when the game difficulty is set to peaceful.
 	#If false, monster spawners drop items regardless of the game difficulty.
-	"Peaceful only" = true
+	"Peaceful only" = false
 
 [StorageBlocks]
 	#Adds more item blocks.
