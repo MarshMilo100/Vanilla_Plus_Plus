@@ -1,9 +1,17 @@
 TODO:
-- make boats faster
-- enchant letters on tools
-- remove enchantment letter icon
+- include changed resourcepack
+- fire invisible on player
+- spawners break after x spawns
+- something to do player damage
+- remove 'no enchantment level cap'
+- remove 'clean tooltips'
+- remove 'enchantment max level cap indicator'
+- add localizations to enchantment descriptions.
 
 Done:
+- enchant letters on tools
+- make boats faster
+- remove enchantment letter icon
 - too many particles from items on the ground
 - right click to harvest crops is broken
 - reduce twerk sensitivity

@@ -1,0 +1,15 @@
+[
+  {
+    "user": {
+      "type": "player",
+      "name": "MarshMilo100",
+      "uniqueId": "829d36c1-72b5-4bcb-9f2a-b30ea4f89151"
+    },
+    "time": 1758327850038,
+    "type": "Profiler (live)",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/faQcQYvty2"
+    }
+  }
+]

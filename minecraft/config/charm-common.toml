@@ -160,7 +160,7 @@
 
 [GrindstoneDisenchanting]
 	#Extract enchantments from any enchanted item onto an empty book using the grindstone.
-	Enabled = true
+	Enabled = false
 	#Initial cost (in XP levels) of extraction before adding on the cost of the enchantment(s).
 	"Initial cost" = 5
 	#Adds extra cost (in XP levels) if the enchantment is a treasure enchantment such as Mending.
@@ -367,7 +367,7 @@
 	[RecipeImprovements.RecipeUnlocking]
 		#Unlocks all vanilla recipes when the player joins the game.
 		#This feature may cause problems with mod progression and is disabled by default.
-		Enabled = false
+		Enabled = true
 
 	[RecipeImprovements.ShapelessRecipes]
 		#Adds convenient shapeless recipe versions of common shaped vanilla recipes.
