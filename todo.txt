@@ -1,12 +1,6 @@
 TODO:
-- include changed resourcepack
 - fire invisible on player
-- spawners break after x spawns
-- something to do player damage
-- remove 'no enchantment level cap'
-- remove 'clean tooltips'
-- remove 'enchantment max level cap indicator'
-- add localizations to enchantment descriptions.
+- block to do player damage/give xp
 
 Done:
 - enchant letters on tools
@@ -42,3 +36,9 @@ Done:
 - jukebox doesnt play sound
 - nether portals dont let you back into the Overworld
 - reduce nether portal radius
+- include changed resourcepack
+- spawners break after x spawns
+- remove 'no enchantment level cap'
+- remove 'clean tooltips'
+- remove 'enchantment max level cap indicator'
+- add localizations to enchantment descriptions.

@@ -1,0 +1,23 @@
+
+audaki cart engine:
+- increase max minecart speed to 34 blocks/second
+- automatically slows down around curves and inclines
+
+high speed rail:
+- least compatible speed increase
+- NOT FUNCTIONAL
+
+dracenos minecarts:
+- most compatible rails
+- minecarts move too fast on normal rails
+
+copper rails:
+- incompatible with audaki cart engine
+the copper rail:
+- more compatible rails
+- copper rail is a uni-directional powered rail
+
+cammies minecart tweaks:
+- increase furnace minecart and normal minecart speeds
+- minecart chaining
+- incompatible with dracenos minecarts
