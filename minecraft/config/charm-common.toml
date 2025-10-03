@@ -7,13 +7,9 @@
 	#The enchantment tags 'on_horse_armor' and 'on_wolf_armor' can be used to configure valid enchantments.
 	Enabled = true
 
-[AnimalArmorGrinding]
-	#Animal armor returns a single ingot, leather, scute or diamond when used on the grindstone.
-	Enabled = true
-
 [AnimalDamageImmunity]
 	#Tamed animals do not take direct damage from players.
-	Enabled = true
+	Enabled = false
 
 [AnimalReviving]
 	#A tamed animal with a name drops its name tag on death.
@@ -24,7 +20,7 @@
 	"Drop loot on death" = false
 	#If true, tamed and named animals drop experience when they die. This could be unwanted behavior as it can be used
 	#to receive an increasing amount of experience by killing and resurrecting an animal repeatedly.
-	"Drop experience on death" = false
+	"Drop experience on death" = true
 
 [AnvilsLastLonger]
 	#Anvils are less likely to take damage when used. By default anvils are 50% stronger.
@@ -157,16 +153,6 @@
 	#Customizable item enchantment colors. This feature is a helper for other Charm features and mods.
 	#If disabled then other features and mods that rely on it will not function properly.
 	Enabled = true
-
-[GrindstoneDisenchanting]
-	#Extract enchantments from any enchanted item onto an empty book using the grindstone.
-	Enabled = false
-	#Initial cost (in XP levels) of extraction before adding on the cost of the enchantment(s).
-	"Initial cost" = 5
-	#Adds extra cost (in XP levels) if the enchantment is a treasure enchantment such as Mending.
-	"Treasure cost" = 5
-	#If true, the item's repair cost will be added to the cost of extraction.
-	"Add item repair cost" = true
 
 [ItemFrameHiding]
 	#Add amethyst shards to item frames to hide them.

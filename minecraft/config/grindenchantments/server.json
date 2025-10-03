@@ -1,19 +1,19 @@
 {
   "reset_repair_cost": {
-    "enabled": false,
-    "catalyst_items": "minecraft:diamond",
+    "enabled": true,
+    "catalyst_items": "",
     "requires_enchantment": true,
     "cost_function": {
       "function": {
         "function": {
           "normal_factor": 1.0,
-          "treasure_factor": 4.0,
+          "treasure_factor": 2.0,
           "type": "grindenchantments:count_levels"
         },
         "type": "grindenchantments:average_count"
       },
-      "factor": 1.5,
-      "offset": 4.0,
+      "factor": 1.0,
+      "offset": 3.0,
       "type": "grindenchantments:transform"
     }
   },
@@ -38,10 +38,12 @@
     "cost_function": {
       "function": {
         "function": {
-          "type": "grindenchantments:count_min_power"
+          "normal_factor": 1.0,
+          "treasure_factor": 3.0,
+          "type": "grindenchantments:count_levels"
         },
-        "factor": 0.3,
-        "offset": 8.0,
+        "factor": 1,
+        "offset": 3,
         "type": "grindenchantments:transform"
       },
       "type": "grindenchantments:filter"
@@ -53,12 +55,12 @@
       "function": {
         "function": {
           "function": {
-            "normal_factor": 3.0,
-            "treasure_factor": 8.0,
+            "normal_factor": 1.0,
+            "treasure_factor": 3.0,
             "type": "grindenchantments:count_levels"
           },
-          "factor": 0.5,
-          "offset": 0.5,
+          "factor": 1.0,
+          "offset": 3.0,
           "type": "grindenchantments:transform"
         },
         "type": "grindenchantments:first_enchantment"
