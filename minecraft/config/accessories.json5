@@ -8,9 +8,9 @@
 		"disabledDefaultRenders": []
 	},
 	"screenOptions": {
-		"selectedScreenType": "ORIGINAL",
+		"selectedScreenType": "EXPERIMENTAL_V1",
 		"showUnusedSlots": false,
-		"allowSlotScrolling": true,
+		"allowSlotScrolling": false,
 		"inventoryButtonOffset": {
 			"x": 66,
 			"y": 8

@@ -2,7 +2,7 @@
 [general]
 
 	# Set to true to pause the server when all players are paused.
-	pauseWhenAllPlayersPaused = true
+	pauseWhenAllPlayersPaused = false
 
 	# Set to true to pause the server when no players are connected.
 	pauseWhenNoPlayers = true

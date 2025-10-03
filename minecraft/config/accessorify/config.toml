@@ -10,11 +10,11 @@ recoveryCompassAccessory = true
 calendarAccessory = true
 elytraAccessory = true
 spyglassAccessory = true
-lanternAccessory = true
+lanternAccessory = false
 totemOfUndyingAccessory = true
 enderChestAccessory = true
 shulkerBoxAccessory = true
-arrowAccessory = true
+arrowAccessory = false
 
 [infoOverlaySettings]
 showYCoordinate = true

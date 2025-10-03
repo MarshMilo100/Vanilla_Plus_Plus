@@ -8,7 +8,7 @@
   "wetSpongesDryOut": true,
   "entitySharesFire": true,
   "fallenTrees": true,
-  "reachAroundPlacement": true,
+  "reachAroundPlacement": false,
   "sheepFurColorFix": true,
   "frostwalkerBoost": true,
   "mushroomTreesInSwamp": true,

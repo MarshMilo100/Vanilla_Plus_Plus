@@ -25,6 +25,7 @@ log_pack_ids = true
 		"subtle_effects:biome_color_water_particles",
 		"crittersandcompanions:friendlyart",
 		"visualoverhaul:coloredwaterbucket",
+		"minecraft:supporteatinganimation",
 
 		# Modified Vanilla Resource Packs
 		"file/Cubic_Dramatic_Skies.zip",
@@ -42,7 +43,7 @@ log_pack_ids = true
 		"file/Vanilla_Tweaks.zip",
 
 		# GUI Changed
-		"file/Darkmode_Colorful_Containers.zip",
+		"file/Darkmode_Colourful_Containers.zip",
 		"file/Darkmode_Modded_Containers.zip",
 
 		# Aesthetic Resource Packs
